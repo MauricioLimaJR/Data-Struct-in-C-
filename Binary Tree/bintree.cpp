@@ -3,7 +3,7 @@
 #endif
 
 #include <iostream>
-#include "tree.h"
+#include "bintree.h"
 using namespace std;
 
 Node::Node(int value){
